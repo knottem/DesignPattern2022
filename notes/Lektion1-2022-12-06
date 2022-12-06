@@ -1,0 +1,55 @@
+OOAD (Object-oriented analysis and design)
+
+•   Objektorienterad analys och design är en systematisk
+    metod för att gå från problembeskrivning till färdigt
+    system.
+
+•   OOAD är ett populärt tekniskt tillvägagångssätt för att
+    analysera och designa en applikation/system genom
+    att använda objektorienterad programmering.
+
+•   OOAD använder visuell modellering med hjälp av t.ex. UML.
+
+•   Man använder OOAD nuförtiden för att ad-hoc inte är ett bra sätt att programmera på
+    ( ad-hoc är att programmera oplanerat och skapat i stunden. https://sv.wikipedia.org/wiki/Ad_hoc )
+
+•   Analys - Beskriver problemet - Vad ska vi göra?
+•   Design - Beskriver lösningen - Hur ska vi göra det?
+
+•   "En kravspecifikation är beställarens beskrivning av den beställda produkten eller tjänsten"
+
+•  Garrets designmodell - väldigt viktig - läs mer om.
+
+    1. Strategy – Den strategiska nivån
+        Den första nivån handlar om användarbehov och produktmål.
+
+    2. Scope – Omfattningsnivån
+        Handlar främst om kravspecifikation. (funktionella specifikationer och innehållskrav).
+
+    3. Structure – Strukturnivån
+        Handlar om interaktionsdesign och informationsarkitektur, vilket
+        anger själva strukturen för de olika produktelementen.
+
+    4. Skeleton – Skelettnivån
+        Handlar om gränssnittsdesign, navigationsdesign och
+        informationsdesign.
+
+    5. Surface – Yt-nivån
+        Den sista nivån handlar om sensorisk design och användarupplevelse.
+
+•   Undvik värderingar och subjektiva ord.
+•   Undvik ord som tydlig, enkel, lä8, snygg, ...
+•   Exempel från produktmål vid intervju med ägaren:
+        Det ska vara tydliga bilder på produkter -> Produktbilder ska kunna förstoras.
+
+    Ej öppna för flera tolkningar.
+
+    • Lagom specifikt: Ej generellt och ej alltför detaljerat.
+    Exempel:
+        Information om produkter -> Bild, namn och kort beskrivning av varje produkt.
+    • OBS! Mål är inte krav!
+    Exempel:
+        Vi vill att fler kunder skapar ett konto -> Länk för att skapa konto på produktsidorna
+
+    Kravspecifikation innehåller endast krav på funktionalitet och innehåll (enligt Garrett)
+    Krav på utseende eller teknik läggs inte in i kravspecifikation.
