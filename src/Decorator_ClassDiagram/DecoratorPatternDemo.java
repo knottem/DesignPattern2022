@@ -2,7 +2,6 @@ package Decorator_ClassDiagram;
 
 public class DecoratorPatternDemo {
 
-
     public static void main(String[] args) {
 
         Shape rectangle = new Rectangle();
